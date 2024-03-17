@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karishma Raina</h1>
 <h3 align="center">A Machine Learning enthusiast from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Karishmaraina/Karishmaraina/assets/113466893/526451dc-1b87-4305-8418-72bd5be72c3b">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishmaraina&label=Profile%20views&color=0e75b6&style=flat" alt="karishmaraina" /> </p>
 
