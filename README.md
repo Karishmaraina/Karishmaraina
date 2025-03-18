@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karishma Raina</h1>
-<h3 align="center">A Web Developer from India.</h3>
+<h3 align="center">A Software Developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishmaraina&label=Profile%20views&color=0e75b6&style=flat" alt="karishmaraina" /> </p>
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🌱 I’m currently working on **MERN Stack & React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karishmaraina?tab=repositories](https://github.com/Karishmaraina?tab=repositories)
 
